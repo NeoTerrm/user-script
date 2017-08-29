@@ -1,2 +1,3 @@
-# user-script
+# NeoTerm User Script
 User Script repository.
+

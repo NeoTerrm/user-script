@@ -1,0 +1,6 @@
+NUS_VERSION=1
+NUS_DESCRIPTION="Extract zip, rar, tar and 7z archives in NeoTerm."
+NUS_MAINTAINER="Kiva <kiva515@foxmail.com>"
+NUS_DEPS="p7zip, unrar, unzip"
+NUS_TYPE="bash"
+
